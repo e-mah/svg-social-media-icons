@@ -1,0 +1,76 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+}
+
+.social__link {
+  padding: .25em;
+  font-size: 2em;
+  text-decoration: none;
+}
+
+.icon-twitter {
+  color: #55acee;
+}
+
+.icon-facebook {
+  color: #3b5999;
+}
+
+.icon-instagram {
+  color: #3f729b;
+}
+
+.icon-pinterest {
+  color: #bd081c;
+}
+
+.icon-youtube {
+  color: #cd201f;
+}
+
+.icon-vimeo-square {
+  color: #1ab7ea;
+}
+
+.icon-linkedin {
+  color: #0077b5;
+}
+
+/* hover & active states */
+.icon-twitter:hover,
+.icon-twitter:active {
+  color: #1689e0;
+}
+
+.icon-facebook:hover,
+.icon-facebook:active {
+  color: #263962;
+}
+
+.icon-instagram:hover,
+.icon-instagram:active {
+  color: #294a65;
+}
+
+.icon-pinterest:hover,
+.icon-pinterest:active {
+  color: #740511;
+}
+
+.icon-youtube:hover,
+.icon-youtube:active {
+  color: #8b1615;
+}
+
+.icon-vimeo-square:hover,
+.icon-vimeo-square:active {
+  color: #0f83a8;
+}
+
+.icon-linkedin:hover,
+.icon-linkedin:active {
+  color: #004569;
+}
